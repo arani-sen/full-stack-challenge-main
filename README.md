@@ -7,6 +7,12 @@ This is my attempt at the Bastion Take Home task. I have updated the code so tha
 Run `npm run dev` to start application\
 Go to `http://localhost:5173/` in your browser to see the widget go.
 
+
+
+https://github.com/arani-sen/full-stack-challenge-main/assets/20361534/56ae982d-e00b-45ea-bd2f-2ca26099e1e6
+
+
+
 ## Instructions for task
 
 As a Fullstack Engineer at Bastion Platforms, you will spend a significant amount of time building single-page applications and supporting APIs. For this assessment, we’d like you to create a single-page application, built in React, that connects to the bitmex `XBTUSDT` public websocket feed and displays the price feed as an orderbook.
